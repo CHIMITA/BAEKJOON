@@ -1,3 +1,7 @@
+'''
+백준 오타맨
+https://www.acmicpc.net/problem/2711
+'''
 for _ in range(int(input())):
     n, string = input().split()
     n = int(n)
